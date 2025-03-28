@@ -1,4 +1,4 @@
-![Header](https://ik.imagekit.io/bdfhwjyjm/Davidsmart--logo.jpg?updatedAt=1743122033137https://ik.imagekit.io/bdfhwjyjm/Davidsmart--logo.jpg?updatedAt=1743122033137)
+
 
 <h1 align="center">Hey There, I'm David Smart! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 
