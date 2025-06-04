@@ -15,29 +15,31 @@
 ---
 
 ### 🚀 About Me
-- 🔧 **I specialize in**: Full-stack development using **React, TypeScript, .NET, and C#**.  
+- 🔧 **I specialize in**: Full-stack development using **React, TypeScript, JavaScript, Next.js, .NET, and C#**.  
 - 💡 **Built Projects**:
   - **Ministry Tracker**: A church attendance tracking app. 📊
+  - **Admin Dashboard**, Admin Dashboard | Charts, Calendar, Tables and board Todo App | UI.
   - **CryptoPlace**: A cryptocurrency web app for tracking market trends. 💰
-- 🌱 **Currently Learning**: Advanced **React, TypeScript, and AI-driven solutions**.
+- 🌱 **Currently Learning**: Advanced **Next, and AI-driven solutions**.
 - 🎯 **Tech Interests**: Fintech, AI, and scalable web applications.
-- 📢 **Ask me about**: **React, TypeScript, .NET, C#, and UI/UX Design**.
+- 📢 **Ask me about**: **React, Next, JavaScript, TypeScript, .NET, C#, and UI/UX Design**.
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,redux,tailwind,dotnet,cs,mssql,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,next,nodejs,redux,tailwind,dotnet,cs,mssql,figma,git,github" />
 </p>
 
 <p align="center">
-  <em>Full Skill Set:</em> TypeScript, JavaScript (ES6+), React, Node.js, Redux Toolkit, TailwindCSS, .NET, C#, MSSQL, UI/UX with Figma, Git, GitHub
+  <em>Full Skill Set:</em> TypeScript, JavaScript (ES6+), React, Next, Node.js, Redux Toolkit, TailwindCSS, .NET, C#, MSSQL, UI/UX with Figma, Git, GitHub
 </p>
 
 ---
 
 ### 🌟 Key Achievements
-- **Developed Ministry Tracker**, improving attendance tracking for churches.  
+- **Developed Ministry Tracker**, improving attendance tracking for churches.
+- **Admin Dashboard**, Admin Dashboard | Charts, Calendar, Tables and board Todo App | UI.  
 - **Built CryptoPlace**, simplifying cryptocurrency trend analysis.  
 - **Enhanced UI/UX for various projects**, ensuring top-tier user experiences.  
 
