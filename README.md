@@ -322,7 +322,7 @@ I am open to:
 - Website and web application development
 - UI/UX design projects
 - Remote opportunities
-- Internship and junior developer opportunities
+- Hybrid Opportunities
 - Collaboration on impactful technology products
 
 I am always interested in working with teams, founders, startups, and businesses that want to build practical, scalable, and user-focused digital products.
