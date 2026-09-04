@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/david-bamidele-8b8249359/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-David%20Smart-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/davidssmart" target="_blank">
+  <a href="https://x.com/iam_david_smart?s=11" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@davidssmart-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
 </p>
