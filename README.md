@@ -72,7 +72,7 @@ Customer storefront and staff admin dashboard for a Nigerian electronics and app
 - Checkout through a hosted payment gateway with server-side verification as the source of truth, and retry for unpaid orders
 - Admin area covering orders, payments, refunds, inventory, media, roles and permissions, with admin mutations invalidating the public storefront cache and revalidating server-rendered product pages
 
-[Repository](https://github.com/davidgraphix/summy-web) · [Live](https://summysolutions-beta.vercel.app)
+[Repository](https://github.com/davidgraphix/summy-web) · [Live](https://www.summysolutions.com/)
 
 ---
 
@@ -153,7 +153,7 @@ Conversion-focused website for a Canadian property-cleaning business.
 - SEO groundwork — metadata, OpenGraph and JSON-LD structured data
 - Mobile-first responsive layout deployed on Vercel
 
-[Repository](https://github.com/davidgraphix/riseclear) · [Live](https://riseclear.vercel.app)
+[Repository](https://github.com/davidgraphix/riseclear) · [Live](https://www.risecleaning.ca/)
 
 ---
 
