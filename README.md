@@ -1,350 +1,199 @@
-<h1 align="center">
-  Hey There, I'm David Smart!
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-</h1>
-
-<h3 align="center">
-  Full-Stack Software Developer | ASP.NET Core & Next.js Developer | UI/UX Designer
-</h3>
+<h1 align="center">David Smart</h1>
 
 <p align="center">
-  Based in Lagos, Nigeria 🇳🇬 | Building scalable, modern, and business-focused digital products
+  <strong>Full-Stack Software Developer</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:bamideledavidsmart40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bamideledavidsmart40@gmail.com-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/david-bamidele-8b8249359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-David%20Smart-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/iam_david_smart?s=11" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@davidssmart-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
+  Building production-ready web applications with React, Next.js, TypeScript, C# and ASP.NET Core.<br/>
+  Based in Lagos, Nigeria.
+</p>
+
+<p align="center">
+  <a href="https://davidsmart-portfolio-react.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B0B0B?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/david-smart-bamidele/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bamideledavidsmart40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I am **David Smart**, a passionate **Full-Stack Software Developer**, **Statistics student**, and **UI/UX Designer** based in **Lagos, Nigeria**.
+I'm a full-stack developer who builds and maintains real web applications end to end — the interface, the API it talks to, the database behind it, and the deployment that keeps it running.
 
-I specialize in building modern web applications using **Next.js, React, TypeScript, JavaScript, C#, ASP.NET Core, Entity Framework Core, SQL Server, PostgreSQL, Tailwind CSS, and modern deployment tools**.
+On the frontend I work with **React, Next.js, TypeScript and Tailwind CSS**. On the backend I work with **C#, ASP.NET Core Web API and Entity Framework Core**, backed by **PostgreSQL** or **SQL Server**. I ship to **Vercel** and **Render**, and use **Docker** and **Supabase** in my deployment workflow.
 
-I enjoy building real-world products that are clean, responsive, scalable, and useful to businesses. My work combines strong frontend development, backend architecture, database management, UI/UX design, and deployment experience.
+I currently work on two production client platforms under contract, and I'm studying **Statistics at Yaba College of Technology (YABATECH)** while actively building my software engineering career.
 
-I have worked on projects across **e-commerce, cleaning services, real estate, HR platforms, media portfolios, dashboards, business websites, and backend APIs**.
+## Experience
 
----
+| Role | Organisation | Period |
+| --- | --- | --- |
+| Contract Full-Stack Software Developer | **PrintPalash** — printing & branding e-commerce platform | Aug 2025 – Present |
+| Contract Full-Stack Software Developer | **Summy Solutions & Technology Ventures** — home-appliance e-commerce platform | Dec 2025 – Present |
 
-## 🚀 What I Do
+On the Summy platform I also work alongside a junior collaborator I trained and currently guide on implementation tasks.
 
-- Build responsive websites and web applications with **React, Next.js, TypeScript, and Tailwind CSS**
-- Develop backend APIs using **C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, and PostgreSQL**
-- Design clean and user-focused interfaces with **Figma**
-- Build admin dashboards, e-commerce platforms, portfolio websites, landing pages, and custom business systems
-- Deploy applications using **Vercel, Render, Supabase, Docker, and cloud platforms**
-- Improve website performance, SEO, responsiveness, and user experience
+Earlier, while still learning, I contributed as a **Software Developer Intern** on **Go Vote**, a startup project founded by my mentor, working alongside the project team.
 
----
+## What I Build
 
-## 🛠️ Tech Stack
+- **E-commerce platforms** — catalogue, cart, checkout, payment verification, order tracking
+- **Admin dashboards** — orders, inventory, customers, payments, analytics, audit logs
+- **REST APIs** — ASP.NET Core Web API with Entity Framework Core and relational databases
+- **Authentication & authorization** — JWT access/refresh flows, role- and permission-based access
+- **Business web applications** — internal tools, multi-role portals, HR and operations systems
+- **Production deployments** — Vercel and Render, environment-driven configuration
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux,nodejs,dotnet,cs,mysql,postgres,mongodb,figma,git,github,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,cs,dotnet,postgres,supabase,docker,git" alt="Core stack" />
 </p>
 
-### Frontend
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React · Next.js (App Router) · TypeScript · JavaScript · Tailwind CSS · TanStack Query · React Hook Form + Zod |
+| **Backend** | C# · ASP.NET Core · ASP.NET Core Web API · Entity Framework Core · REST APIs · JWT authentication |
+| **Databases** | PostgreSQL · SQL Server · Supabase |
+| **Tools & Deployment** | Git · GitHub · Docker · Vercel · Render · Postman |
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Redux Toolkit` `Framer Motion` `shadcn/ui`
+## Selected Projects
 
-### Backend
+### Summy Solutions — Storefront & Admin Dashboard
 
-`C#` `ASP.NET Core Web API` `.NET` `Entity Framework Core` `REST APIs` `JWT Authentication` `Identity` `SQL Server` `PostgreSQL`
+Customer storefront and staff admin dashboard for a Nigerian electronics and appliances retailer, built against an ASP.NET Core backend. Contract work, actively developed.
 
-### Tools & Platforms
+**Tech:** Next.js 15 · React 19 · TypeScript (strict) · Tailwind CSS · TanStack Query & Table · React Hook Form + Zod · Zustand · Recharts
 
-`Git` `GitHub` `Docker` `Vercel` `Render` `Supabase` `Postman` `Figma` `Visual Studio` `VS Code`
+**Highlights:**
+- Typed API client that unwraps the backend response envelope, surfaces field-level validation errors, and refreshes expired tokens transparently — concurrent 401s share a single in-flight refresh
+- Guest cart in `localStorage` that merges into the server cart on login, behind one interface so components never branch on session state
+- Checkout through a hosted payment gateway with server-side verification as the source of truth, and retry for unpaid orders
+- Admin area covering orders, payments, refunds, inventory, media, roles and permissions, with admin mutations invalidating the public storefront cache and revalidating server-rendered product pages
 
-### Design
-
-`UI/UX Design` `Wireframing` `Prototyping` `Responsive Design` `Design Systems` `User-Centered Interfaces`
-
----
-
-## 🌍 Featured Projects
-
-### 🛒 SaElizabeth E-Commerce Backend
-
-A production-ready backend system for a full e-commerce platform built with **ASP.NET Core Web API**, **Entity Framework Core**, **PostgreSQL**, **Docker**, and cloud deployment tools.
-
-**Key Features:**
-
-- JWT authentication and role-based authorization
-- Admin account setup and secured API endpoints
-- Product/vehicle CRUD functionality
-- Image upload support
-- PostgreSQL database migration
-- Docker containerization
-- Supabase PostgreSQL integration
-- Render backend deployment
-- Vercel frontend integration
-
-**Tech Used:**  
-`ASP.NET Core` `C#` `Entity Framework Core` `PostgreSQL` `Supabase` `Docker` `Render` `JWT` `REST API`
+[Repository](https://github.com/davidgraphix/summy-web) · [Live](https://summysolutions-beta.vercel.app)
 
 ---
 
-### 🖨️ PrintPalash
+### PrintPalash
 
-A modern e-commerce printing website built for a printing business, focused on product display, SEO, and customer conversion.
+Production e-commerce and branding site for a printing business, with a staff admin dashboard on top of an ASP.NET Core API. Built and maintained under contract.
 
-**Live Project:** [printpalash.com](https://printpalash.com)
+**Tech:** Next.js · TypeScript · Tailwind CSS · Nodemailer · ASP.NET Core API (separate service)
 
-**Key Features:**
+**Highlights:**
+- Admin sign-in proxied server-side: the long-lived refresh token stays in an `httpOnly` cookie the browser's JavaScript cannot read, and only a short-lived access token reaches the client
+- Permission-gated admin dashboard — orders, products, categories, brands, customers, payments, staff, analytics and audit logs — with every backend call defined in one typed API module
+- Public order tracking served through a same-origin proxy that validates tracking numbers before forwarding, keeping the API origin out of the public bundle
+- Statically built public catalogue for fast, SEO-friendly product pages; printable job cards with tracking QR codes; order emails over SMTP
+- Node-based test suite covering admin auth, permission rules and formatting
 
-- Product categories
-- Product detail pages
-- Multiple product images
-- Search functionality
-- Related products
-- Rating UI
-- SEO optimization
-- Fully responsive design
-
-**Tech Used:**  
-`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `SEO` `Vercel`
+[Repository](https://github.com/davidgraphix/printpalash) · [Live](https://printpalash.com)
 
 ---
 
-### 🏠 RiseClear Property Services
+### Workeva — Workforce Management App
 
-A professional cleaning service website built for a Canada-based cleaning brand.
+Web client for a multi-tenant HR and workforce platform: attendance, leave, tasks, departments, reporting and audit trails.
 
-**Live Project:** [risecleaning.ca](https://risecleaning.ca)
+**Tech:** Next.js 16 · React 19 · TypeScript (strict) · Tailwind CSS 4 · TanStack Query · Supabase Auth · Recharts · Vitest · Playwright
 
-**Preview:** [riseclear.vercel.app](https://riseclear.vercel.app)
+**Highlights:**
+- Full auth lifecycle — sign-up, email confirmation via a server-side code exchange, password reset, invitation preview and acceptance, and an onboarding wizard for new companies
+- One data hook per API resource, with an in-house UI component layer (fields, dialogs, tables, toasts, state placeholders) shared across the app
+- Authorization and tenant isolation deliberately enforced by the API, with the client treating hidden UI as presentation rather than a security control
+- Unit tests with Vitest and end-to-end coverage with Playwright, plus a strict typecheck step
 
-**Key Features:**
-
-- Multi-step quote form
-- Email notification system
-- Auto-reply functionality
-- Service categories and subcategories
-- Professional business website layout
-- Clean and responsive UI
-- Production deployment
-
-**Tech Used:**  
-`Next.js` `TypeScript` `Tailwind CSS` `Nodemailer` `Responsive Design` `Vercel`
+[Repository](https://github.com/davidgraphix/workeva-frontend)
 
 ---
 
-### 📈 BlackCircle
+### YCT Connect Plus
 
-A markets and finance-focused web platform designed for financial education, market stories, investing guides, corporate training, and community growth.
+Campus learning platform with three separate role experiences — student, lecturer and administrator — on top of a JWT-secured REST API.
 
-**Live Preview:** [blackcircle.vercel.app](https://blackcircle.vercel.app)
+**Tech:** Next.js · TypeScript · Tailwind CSS · Zustand · Recharts · Cloudinary
 
-**Key Features:**
+**Highlights:**
+- Role-aware routing: separate registration and login flows per role, each landing in its own dashboard
+- Lecturer tools for uploading course materials, posting announcements and viewing class analytics; admin tools for users, departments, materials approval and reports
+- Central fetch client that attaches the bearer token and normalises API errors in one place
+- Cloudinary-backed file uploads and PDF export of reports
 
-- Market-focused landing page
-- Finance stories and learning sections
-- Investing guides
-- Corporate training structure
-- Community-focused layout
-- Modern animated UI
-
-**Tech Used:**  
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `UI/UX Design`
+[Repository](https://github.com/davidgraphix/yct-connect-plus) · [Live](https://yct-connect-plus.vercel.app)
 
 ---
 
-### 🧑‍💼 Global Ease HR
+### SmartScheduler API
 
-A modern HR and recruitment platform website designed to present company services, job opportunities, and business information clearly.
+A compact ASP.NET Core Web API showing how I structure backend services: controllers, DTOs, EF Core data layer and token-based auth.
 
-**Live Preview:** [globalease-hr.vercel.app](https://globalease-hr.vercel.app)
+**Tech:** C# · ASP.NET Core 9 · Entity Framework Core · SQL Server · JWT Bearer
 
-**Key Features:**
+**Highlights:**
+- Registration and login endpoints issuing signed JWTs, with full token validation (issuer, audience, lifetime, signing key) configured at startup
+- Password hashing kept out of the controller in a dedicated helper, and roles assigned at registration
+- EF Core `DbContext` with code-first migrations and a design-time factory
+- Request/response DTOs separated from entity models
 
-- Corporate website layout
-- HR service sections
-- Job display structure
-- Professional brand presentation
-- Responsive design
-
-**Tech Used:**  
-`Next.js` `TypeScript` `Tailwind CSS` `UI/UX Design`
+[Repository](https://github.com/davidgraphix/SmartSchedulerApi)
 
 ---
 
-### 🎙️ GenZHR
+### RiseClear Property Services
 
-A media-style HR platform concept focused on content, podcast-style communication, career discussions, and workplace conversations.
+Conversion-focused website for a Canadian property-cleaning business.
 
-**Live Preview:** [genzhr.vercel.app](https://genzhr.vercel.app)
+**Tech:** Next.js 14 (App Router) · TypeScript · Tailwind CSS · Framer Motion · Nodemailer
 
-**Tech Used:**  
-`Next.js` `React` `Tailwind CSS` `Responsive Design`
+**Highlights:**
+- Dedicated quote forms per service type with loading, success and error states
+- Server-side contact route that notifies the business and sends the client an auto-reply
+- SEO groundwork — metadata, OpenGraph and JSON-LD structured data
+- Mobile-first responsive layout deployed on Vercel
 
----
-
-### 🎬 Wonder Cinematic Portfolio
-
-A cinematic portfolio website for a videographer, designed to showcase video projects and convert visitors into booking clients.
-
-**Key Features:**
-
-- Cinematic hero section
-- Autoplay video integration
-- Featured films section
-- Showreel section
-- Services and process sections
-- Booking-focused call-to-action
-- Portfolio storytelling layout
-
-**Tech Used:**  
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Video UI`
+[Repository](https://github.com/davidgraphix/riseclear) · [Live](https://riseclear.vercel.app)
 
 ---
 
-### 🏫 Smart Tech Academy
+**More on my GitHub:** [BlackCircle](https://github.com/davidgraphix/blackcircle) (finance & markets platform) · [Summy storefront](https://github.com/davidgraphix/summysolutionsandtechnology) (catalogue, cart and checkout) · [Brandlift Technologies](https://github.com/davidgraphix/brandlift-technologies) · [Portfolio](https://github.com/davidgraphix/davidsmart-portfolio)
 
-A tech academy website for teaching frontend development, backend development, full-stack development, and UI/UX design.
+## Current Focus
 
-**Live Project:** [smart-tech-academy.vercel.app](https://smart-tech-academy.vercel.app)
-
-**Tech Used:**  
-`Next.js` `React` `Tailwind CSS` `UI/UX Design`
-
----
-
-### 🧠 Ministry Tracker
-
-A church attendance tracking system designed to help ministries monitor attendance and manage records more effectively.
-
-**Key Features:**
-
-- Attendance tracking
-- Organized member records
-- Dashboard-style structure
-- Practical church management use case
-
-**Tech Used:**  
-`React` `JavaScript` `Dashboard UI`
-
----
-
-### 💰 CryptoPlace
-
-A cryptocurrency tracking web application designed to help users monitor crypto market trends.
-
-**Key Features:**
-
-- Crypto market data display
-- Market trend tracking
-- Clean user interface
-- Responsive layout
-
-**Tech Used:**  
-`React` `JavaScript` `API Integration` `CSS`
-
----
-
-### 📊 Admin Dashboard
-
-A modern dashboard interface with charts, calendar, tables, and task management UI.
-
-**Key Features:**
-
-- Charts and analytics layout
-- Calendar UI
-- Tables
-- Board-style todo interface
-- Responsive admin layout
-
-**Tech Used:**  
-`React` `Tailwind CSS` `Dashboard UI` `Charts`
-
----
-
-## 🏆 Key Strengths
-
-- Full-stack development experience across frontend, backend, database, and deployment
-- Strong frontend skills with **React, Next.js, TypeScript, and Tailwind CSS**
-- Backend development with **ASP.NET Core, C#, Entity Framework Core, SQL Server, and PostgreSQL**
-- Experience building real client projects from idea to production
-- Clean UI implementation with strong attention to user experience
-- Ability to build business-focused websites and scalable web applications
-- Experience with deployment tools like **Vercel, Render, Supabase, and Docker**
-- Good understanding of SEO, responsiveness, performance, and product presentation
-
----
-
-## 📌 Current Focus
-
-I am currently focused on improving my expertise in:
-
-- Advanced **ASP.NET Core backend development**
-- Scalable full-stack architecture
+- Advanced ASP.NET Core Web API development
+- Full-stack architecture across a Next.js client and a .NET API
 - Production-grade e-commerce systems
-- Cloud deployment and DevOps workflows
-- AI-powered software solutions
-- Clean UI engineering and performance optimization
+- PostgreSQL and database design
+- Docker and deployment workflows
+- Stronger engineering practices — typed contracts, testing, code review
 
----
+## Education
 
-## 📊 GitHub Stats
+**Yaba College of Technology (YABATECH)** — Statistics · currently studying
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidgraphix&show_icons=true&locale=en&theme=dracula" alt="David Smart GitHub Stats" />
-</p>
+## Open to Opportunities
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidgraphix&show_icons=true&locale=en&layout=compact&theme=dracula" alt="David Smart Top Languages" />
-</p>
+I'm actively looking for:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidgraphix&theme=dracula" alt="David Smart GitHub Streak" />
-</p>
+- Junior Software Engineer / Junior Full-Stack Developer roles
+- Junior Frontend Developer, React and Next.js roles
+- C# / ASP.NET Core backend roles
+- Software engineering internships
+- Remote or hybrid engineering teams
 
----
+If you're hiring or want to talk about a role, the fastest way to reach me is [email](mailto:bamideledavidsmart40@gmail.com) or [LinkedIn](https://www.linkedin.com/in/david-smart-bamidele/).
 
-## 🤝 Open To Opportunities
-
-I am open to:
-
-- Full-stack development roles
-- Frontend developer roles
-- Backend developer roles
-- Freelance software development projects
-- Website and web application development
-- UI/UX design projects
-- Remote opportunities
-- Hybrid Opportunities
-- Collaboration on impactful technology products
-
-I am always interested in working with teams, founders, startups, and businesses that want to build practical, scalable, and user-focused digital products.
-
----
-
-## 📬 Let's Connect
+## GitHub Activity
 
 <p align="center">
-  <a href="mailto:bamideledavidsmart40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bamideledavidsmart40@gmail.com-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/david-bamidele-8b8249359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-David%20Smart-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/davidssmart" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@davidssmart-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
+  <img height="165" alt="David Smart's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=davidgraphix&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=767676" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidgraphix&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=2F81F7&text_color=767676" />
 </p>
 
----
+## Contact
 
-<p align="center">
-  <strong>Building clean, scalable, and impactful digital products one project at a time.</strong>
-</p>
+- **Email:** [bamideledavidsmart40@gmail.com](mailto:bamideledavidsmart40@gmail.com)
+- **LinkedIn:** [david-smart-bamidele](https://www.linkedin.com/in/david-smart-bamidele/)
+- **Portfolio:** [davidsmart-portfolio-react.vercel.app](https://davidsmart-portfolio-react.vercel.app/)
+- **GitHub:** [@davidgraphix](https://github.com/davidgraphix)
